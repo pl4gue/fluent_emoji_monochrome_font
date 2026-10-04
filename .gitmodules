@@ -1,0 +1,3 @@
+[submodule "fluent-emoji-webfont"]
+	path = fluent-emoji-webfont
+	url = https://github.com/tetunori/fluent-emoji-webfont.git

@@ -1,0 +1,7 @@
+dist/
+
+fluent-emoji-webfont/build/
+fluent-emoji-webfont/venv/
+
+__pycache__/
+*.pyc
